@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "왜 파타고니아는 맥주를 팔까"
 ---
 
